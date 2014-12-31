@@ -1,0 +1,26 @@
+{
+  "name": "Notas",
+  "description": "Crie lista de tarefas, notas e tudo o que você precisa lembrar",
+  "launch_path": "/index.html",
+  
+  "icons": {
+    "84":  "/icons/84.png",
+    "128": "/icons/128.png",
+    "142": "/icons/142.png",
+    "189": "/icons/189.png",
+    "256": "/icons/256.png",
+    "284": "/icons/284.png"
+  },
+  "version": "1.0",
+  "developer": {
+    "name": "Noobox",
+    "url": "http://noobox.org"
+  },
+  "default_locale": "pt",
+  "locales": {
+    "pt": {
+      "name": "Notas",
+      "description": "Crie lista de tarefas, notas e tudo o que você precisa lembrar"
+    }
+  }
+}
